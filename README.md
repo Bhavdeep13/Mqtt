@@ -13,7 +13,7 @@ Technoloies used
 ```bash
 #using venv
 pip install virtualenv
-python<version> -m venv <virtual-environment-name>
+python -m venv <virtual-environment-name>
 
 source env/bin/activate
 
