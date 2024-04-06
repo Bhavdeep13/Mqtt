@@ -1,0 +1,7 @@
+# Requirements #
+python==3.9.13
+paho-mqtt==1.6.1
+
+jinja2-time 
+mkl-random 
+python-dateutil
