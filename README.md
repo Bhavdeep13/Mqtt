@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ``` 
 
-## Run code
+## Steps to run
 - create virtual env
 - activate virtual env
 - intall dependecies
